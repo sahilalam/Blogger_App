@@ -167,7 +167,7 @@ export default function SingleBlog(props) {
               </Col>
               <Col
                 xs="12"
-                className="box box-shadow bg-light text-secondary blog-body "
+                className="box box-shadow bg-light text-secondary blog-body bg-dark"
               >
                 {d.body}
               </Col>
