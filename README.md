@@ -6,3 +6,8 @@ This is the frontend repo ,for the backend repo refer [here](https://github.com/
 
 [Deployed Link](https://blogger-app.vercel.app/)
 
+Snippet:
+
+![Blogger](https://user-images.githubusercontent.com/37076663/117661855-851a6680-b1bc-11eb-8144-3350c9412d28.PNG)
+
+
